@@ -20,5 +20,9 @@ Grafana Dashboard for Monitoring Ascend NPU Exporter,适用于ascend-npu-exporte
 |  昇腾AI处理器HBM内存总信息|
 
 详细指标参见[NPU-Exporter Prometheus Metrics](https://www.hiascend.com/document/detail/zh/mindx-dl/50rc2/clusterscheduling/clusterscheduling/dlug_guide_03_000138.html)接口
-## 3.截图示例
+## 3.版本截图说明
+20240229版本
 ![image](./Dashboards/ascend-npu-dashboard_20240229.png)
+
+20240301版本：调整加速卡信息面板
+![image](./Dashboards/ascend-npu-dashboard_20240301.png)
